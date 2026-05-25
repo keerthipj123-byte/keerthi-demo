@@ -14,6 +14,7 @@ but I'm finally starting my journey now 🚀
 - JavaScript
 - React
 
+ <br>
 ## Goal
 To improve my skills, build projects, and become a software developer.
 
